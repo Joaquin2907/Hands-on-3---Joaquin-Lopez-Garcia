@@ -1,4 +1,4 @@
-# Hands-on-3---Joaquin-Lopez-Garcia
+# Hands-on-3-Joaquin-Lopez-Garcia
 
 Links de los datasets:
 
